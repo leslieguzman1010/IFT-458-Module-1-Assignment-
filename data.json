@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "customerName": "Michael Scott",                                  
+        "image": "📚",                                             
+        "from": "324 E University Dr",
+        "phoneNumber": "323 293 0293",
+        "loanAmount": "2000.00",
+        "interest": "0.06",
+        "loanTermYears": "48",
+        "description": "Introduction to Information Technology",
+        "total": " "
+    },
+    {
+        "id": 1,
+        "customerName": "Dwight Schrute",
+        "image": "🕉",
+        "from": "123 Beets Ave",
+        "phoneNumber": "839 281 9029",
+        "loanAmount": "1200.00",
+        "interest": "0.06",
+        "loanTermYears": "4",
+        "description": "International Culture",
+        "total": " "
+      },
+      {
+        "id": 2,
+        "customerName": "Jim Halpert",
+        "image": "📯",
+        "from": "823 Happy Ave",
+        "phoneNumber": "323 932 0232",
+        "loanAmount": "800.00",
+        "interest": "0.06",
+        "loanTermYears": "4",
+        "description": "Virtualization",
+        "total": " "
+      },
+      {
+        "id": 3,
+        "customerName": "Pam Beesly",
+        "image": "😱",
+        "from": "823 Lala Ave",
+        "phoneNumber": "323 032 2329",
+        "loanAmount": "4000.00",
+        "interest": "0.06",
+        "loanTermYears": "4",
+        "description": "Virtualization",
+        "total": " "
+      },
+      {
+        "id": 4,
+        "customerName": "Ryan Howard",
+        "image": "🐇",
+        "from": "823 West Dr",
+        "phoneNumber": "943 203 9239",
+        "loanAmount": "2400.00",
+        "interest": "0.06",
+        "loanTermYears": "4",
+        "description": "Animal Science",
+        "total": " "
+      }
+]
